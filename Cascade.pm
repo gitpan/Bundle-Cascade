@@ -1,6 +1,6 @@
 package Bundle::Cascade;
 
-$Bundle::Cascade::VERSION = '1.10';
+$Bundle::Cascade::VERSION = '1.11';
 
 1;
 
@@ -31,7 +31,7 @@ DBI 1.20
 
 HTML::FillInForm .22
 
-Data::FormValidator 1.7
+Data::FormValidator 1.9
 
 File::Copy
 
@@ -40,6 +40,10 @@ Image::Size
 HTTP::Headers::UserAgent
 
 File::Basename
+
+HTTP::SimpleLinkChecker
+
+Netscape::Bookmarks
 
 =head1 DESCRIPTION
 
