@@ -1,6 +1,6 @@
 package Bundle::Cascade;
 
-$Bundle::Cascade::VERSION = '1.00';
+$Bundle::Cascade::VERSION = '1.10';
 
 1;
 
@@ -27,11 +27,19 @@ DBIx::Abstract 1.001
 
 Digest::SHA1 1.03
 
-DBI 1.18
+DBI 1.20
 
-HTML::FillInForm .18
+HTML::FillInForm .22
 
-Data::FormValidator 1.5
+Data::FormValidator 1.7
+
+File::Copy
+
+Image::Size
+
+HTTP::Headers::UserAgent
+
+File::Basename
 
 =head1 DESCRIPTION
 
